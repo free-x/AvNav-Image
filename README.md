@@ -8,15 +8,15 @@
 ## Content of Images
 
 - AvNav
--- [avnav-raspi](https://github.com/wellenvogel/avnav) (s)(e)
--- [avnav-ocharts-plugin](https://github.com/wellenvogel/avnav-ocharts-provider) (s)
--- [avnav-ochartsng-plugin](https://github.com/wellenvogel/ochartsng) (e)
--- [avnav-mapproxy-plugin](https://github.com/wellenvogel/avnav-mapproxy-plugin) (s)(e)
--- [avnav-history-plugin](https://github.com/wellenvogel/avnav-history-plugin) (s)(e)
--- [avnav-obp-plotterv3-plugin](https://github.com/wellenvogel/avnav-obp-plotterv3-plugin) (s)(e)
--- [avnav-obp-rc-remote-plugin](https://github.com/wellenvogel/avnav-obp-rc-remote-plugin) (s)(e)
--- [avnav-update-plugin](https://github.com/wellenvogel/avnav-update-plugin) (s)(e)
--- [avnav-raspi-driver](https://github.com/wellenvogel/avnav-raspi-driver) (s)
+  -- [avnav-raspi](https://github.com/wellenvogel/avnav) (s)(e)
+  -- [avnav-ocharts-plugin](https://github.com/wellenvogel/avnav-ocharts-provider) (s)
+  -- [avnav-ochartsng-plugin](https://github.com/wellenvogel/ochartsng) (e)
+  -- [avnav-mapproxy-plugin](https://github.com/wellenvogel/avnav-mapproxy-plugin) (s)(e)
+  -- [avnav-history-plugin](https://github.com/wellenvogel/avnav-history-plugin) (s)(e)
+  -- [avnav-obp-plotterv3-plugin](https://github.com/wellenvogel/avnav-obp-plotterv3-plugin) (s)(e)
+  -- [avnav-obp-rc-remote-plugin](https://github.com/wellenvogel/avnav-obp-rc-remote-plugin) (s)(e)
+  -- [avnav-update-plugin](https://github.com/wellenvogel/avnav-update-plugin) (s)(e)
+  -- [avnav-raspi-driver](https://github.com/wellenvogel/avnav-raspi-driver) (s)
 - [SignalK](https://github.com/SignalK/signalk-server) (s)(e)
 - [CanBoat](https://github.com/canboat/canboat) (s)(e)
 
