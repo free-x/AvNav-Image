@@ -2,13 +2,13 @@
 
 ## Download
 
-- [OldStable](https://www.free-x.de/raspbian/bullseye/) for Pi 3B(+), 4B based on Debian/Bullseye
 - [Stable](https://www.free-x.de/raspbian/bookworm/) for Pi 3B(+), 4B, 5 based on Debian/Bookworm
+- [OldStable](https://www.free-x.de/raspbian/bullseye/archive) for Pi 3B(+), 4B based on Debian/Bullseye
 
 ## Content of Images
 
 - AvNav
-  - [avnav-raspi](https://github.com/wellenvogel/avnav) (0)(s)
+  - [avnav-raspi](https://github.com/wellenvogel/avnav) (o)(s)
   - [avnav-ocharts-plugin](https://github.com/wellenvogel/avnav-ocharts-provider) (o)
   - [avnav-ochartsng-plugin](https://github.com/wellenvogel/ochartsng) (s)
   - [avnav-mapproxy-plugin](https://github.com/wellenvogel/avnav-mapproxy-plugin) (o)(s)
